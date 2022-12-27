@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Hello world!");
         for (;;){
             System.out.println(999);
+            System.out.println("git commit");
         }
     }
 }
